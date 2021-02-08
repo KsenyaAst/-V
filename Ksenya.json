@@ -1,0 +1,34 @@
+{
+   "Name":"Kseniya",
+   "Surname":"Astapovich",
+   "Patronymic":"Vasil'evna",
+   "Date of Birthday":"5 april 1995",
+   "Birthplace":"Lel'chicy",
+   "Education":[
+      {
+         "name of the institution":"School",
+         "training period":"2001-2012",
+         "specialty":"physic-math"
+      },
+      {
+         "name of the institution":"BNTU",
+         "training period":"2012-2016",
+         "specialty":"Manager-economist"
+      },
+      {
+         "name of the institution":"IT Academy",
+         "training period":"2020-2020",
+         "specialty":"Softwere Testing"
+      }
+   ],
+   "Lenguages":[
+      {
+         "Languege":"Russian",
+         "Level":"Native"
+      },
+      {
+         "Languege":"English",
+         "Level":"Intermidiate"
+      }
+   ]
+}
